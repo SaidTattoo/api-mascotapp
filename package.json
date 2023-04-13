@@ -1,0 +1,22 @@
+{
+  "name": "api-mascotapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaidTattoo/api-mascotapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaidTattoo/api-mascotapp/issues"
+  },
+  "homepage": "https://github.com/SaidTattoo/api-mascotapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
